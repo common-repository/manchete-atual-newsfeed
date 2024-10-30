@@ -1,0 +1,8 @@
+.newsfeed-wrapper{list-style:none}
+.newsfeed-wrapper ul{border-radius:6px; list-style:none; padding:0px 0px 0px 8px; background:#fff; display:block; margin:0px 0px 0px 0px;}
+.newsfeed-wrapper li{min-height:60px; border-top:1px solid #ccc; padding:5px 8px 5px 0px; margin-bottom:1px;}
+.newsfeed-wrapper li:first-child{border-top:0px}
+.newsfeed-wrapper li>a{display:block; font:16px/20px Georgia,serif;}
+.newsfeed-wrapper li span{color:#666; font-size:12px; line-height:20px;}
+.newsfeed-wrapper li span a{color:#666;}
+.newsfeed-wrapper .widget-newsfeed div{text-align:right; padding-right:10px; padding-top:3px; font-size:11px;}
